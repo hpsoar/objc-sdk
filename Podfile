@@ -1,7 +1,7 @@
 source 'https://github.com/CocoaPods/Specs.git'
 
 def shared_dependencies
-  pod 'AFNetworking', '~> 3'
+  pod 'AFNetworking', '~> 2'
   pod 'HappyDNS', '>= 0.3'
 end
 
